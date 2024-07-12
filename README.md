@@ -1,2 +1,10 @@
-# portfolioQA
-A portfolio showcasing the testing skills of Dmytro Kravtsov
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Summary](#summary)
+3. [Projects](#projects)
+4. [Test Cases](#test-cases)
+5. [Bug Reports](#bug-reports)
+6. [Test Plans](#test-plans)
+7. [Documentation](#documentation)
+8. [About Me](#about-me)
+9. [Contact](#contact)
