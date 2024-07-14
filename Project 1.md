@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Below you will find details about my projects and the skills I have developed.
 
-## Project 1: So Yummi QA
+## Project 1: So Yummi QA (https://so-yummi-qa.netlify.app)
 
 ### Overview
 This project represents the culmination of my Go IT manual testing course, focusing on testing a recipe management and shopping list website.
