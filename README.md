@@ -62,6 +62,5 @@ Learn more about my background and skills:
 
 ## Contact
 Feel free to reach out to me:
-- **Email**: [dmytro.kravtsov@example.com](mailto:dmytro.kravtsov@example.com)
-- **LinkedIn**: [Dmytro Kravtsov](https://www.linkedin.com/in/dmytrokravtsov)
-- **Twitter**: [@DmytroKravtsov](https://twitter.com/DmytroKravtsov)
+- **Email**: [dmytro.kravtsov55@gmail.com](mailto:dmytro.kravtsov55@gmail.com)
+- **LinkedIn**: [Dmytro Kravtsov](https://www.linkedin.com/in/dmytro-kravtsov-qa/)
