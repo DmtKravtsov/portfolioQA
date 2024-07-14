@@ -21,7 +21,7 @@ I am an aspiring manual tester with a robust foundation in software quality assu
 - **Test Planning**: Crafting comprehensive test plans with clear objectives and methodologies.
 - **Test Case Development**: Creating detailed test cases to thoroughly assess functionality.
 - **Bug Tracking**: Proficient in Jira, Qase, and TestRail for efficient bug identification and reporting.
-- **API Testing**: Skilled in using Postman to design and execute API tests.
+- **API Testing**: Skilled in using Postman and Swagger to design and execute API tests.
 - **Database Testing**: Experienced with SQL databases for backend verification.
 - **Attention to Detail**: Meticulous and methodical approach to ensure thorough evaluation.
 - **Continuous Learning**: Committed to staying current with industry best practices and trends.
@@ -31,8 +31,6 @@ Though I lack commercial experience, my dedication to mastering manual testing i
 ## Projects
 Here are some of the projects I have worked on:
 - [Project 1](./Projects/Project1)
-- [Project 2](./Projects/Project2)
-- [Project 3](./Projects/Project3)
 
 ## Test Cases
 Explore examples of my test cases:
