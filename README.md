@@ -30,7 +30,7 @@ Though I lack commercial experience, my dedication to mastering manual testing i
 
 ## Projects
 Here are some of the projects I have worked on:
-- [Project 1](Project 1.md)
+- [Project 1](./Project%201.md)
 
 ## Test Cases
 Explore examples of my test cases:
